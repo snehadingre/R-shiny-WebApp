@@ -1,6 +1,4 @@
 # r-shiny
 
 
-![Rshinydashboard](r-shiny/R shiny dashboard.PNG)
-
-![alt text](https://raw.githubusercontent.com/snehadingre/r-shiny/master/r-shiny/R shiny dashboard.PNG)
+![Rshiny](https://github.com/snehadingre/r-shiny/blob/master/R%20shiny%20dashboard.PNG)
